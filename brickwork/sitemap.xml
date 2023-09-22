@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset
+          xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+     <url>
+                 <loc>index.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>masonry-contractor-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>masonry-contractors-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>boston-paving.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>basement-waterproofing-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/boston-masonry.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/masonry-contractor-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/masonry-contractors-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/boston-paving.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/basement-waterproofing-boston.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>privacy-policy.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>about-us.html</loc>
+                 <lastmod>2023-09-22T20:28:06+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url></urlset>
